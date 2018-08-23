@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE77681",
+    "servers": [
+      {
+        "server_address": "127.0.0.5",
+        "serv_port_up": 1790
+        "serv_port_down": 1790"
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.08045020,
+    "ref_longitude": 11.26008817,
+    "ref_altitude": 678,
+    "contact_email": "ccosta@fbk.eu",
+    "description": "Test GTW"
+    "gps_tty_path": "/dev/serial1",
+   /* GPS reference coordinates */
+    "ref_latitude": 0.0,
+    "ref_longitude": 0.0,
+    "ref_altitude": 0,
+    "stat_interval": 30
+  }
+}
