@@ -4,8 +4,8 @@
     "servers": [
       {
         "server_address": "127.0.0.5",
-        "serv_port_up": 1790
-        "serv_port_down": 1790"
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
         "serv_enabled": true
       }
     ],
@@ -13,7 +13,7 @@
     "ref_longitude": 11.26008817,
     "ref_altitude": 678,
     "contact_email": "ccosta@fbk.eu",
-    "description": "Test GTW"
+    "description": "Test GTW",
     "gps_tty_path": "/dev/serial1",
    /* GPS reference coordinates */
     "ref_latitude": 0.0,
