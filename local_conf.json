@@ -1,7 +1,7 @@
 {
     "gateway_conf": {
         "gateway_ID": "b827ebFFFEb3737f",
-        "server_address": "lorabest.cn",
+        "server_address": "116.62.159.216",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "gps_tty_path": "/dev/serial1",
